@@ -41,7 +41,14 @@ Airbnb is a leading platform where people can book beds, apartments, and homes a
 	    - Clustering & Forecasting – Model results
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+I selected to perform Option 2 using the Airbnb dataset to plot the visuals and perform EDA and derive meaningful insights and outcome. Based on the above analysis mentioned, I formulated the following questions for which i have answered in my Tableau visualizations for which I have attached a PDF file with all the dashboards containing my Tableau Visuals.
+
+<n> <b> 1. Which are the neighborhoods that show a steady growth level among the given ones based on the Average Price ?</b>  </n>
+
+Bronx was showing higher growth and later became steady as compared to Staten Island. Staten Island which had a steep growth in 2012, unfortunately dropped in 2013, though it picked up again in 2014 and slashed down again in 2015 among all the neighborhoods, which means this neighborhood was pretty unstable.
+
+While Queens and Brooklyn have a steady growth in the average price in the neighborhood, neither they had a huge raise nor a steep fall making them a steady neighborhood amongst others. However Manhattan had a good start based on the average price but had several fluctuations and the average price reduced by 2015.
+
 
 ## Challenges 
 (discuss challenges you faced in the project)
