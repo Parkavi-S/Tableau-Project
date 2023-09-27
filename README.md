@@ -95,6 +95,12 @@ From the above analysis I could see the given categories of (price, room type, r
 This makes the analysis clear that there are lot of business opportunities expansion in the stable neighborhoods like Manhattan, Brooklyn and
 Queens, followed by Bronx as well. There would be more price revenue generated for investors if they prefer investing on apartments and private houses.
 
+<n> <b> Final Dashboard link </b> </n>
+
+https://public.tableau.com/app/profile/parkavi.srinivasa/viz/Airbnb_DataVisualization_forecasting_visuals_dashboards_withSheets/AirBnB-NeighborhoodAnalysis?publish=yes
+
+I have attached the final dashboard version with all the work sheets and the dataset that I had used for this analysis.
+
 ## Challenges 
 
 Following were the challenges that I had faced throughout the development of this project:
