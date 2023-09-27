@@ -1,7 +1,8 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+What is AIRBNB?
+Airbnb is a leading platform where people can book beds, apartments, and homes around the world. It allows the hosts to rent out their places at their convenience.Through Airbnb, people can find places to stay even in areas where there is a likelihood of fewer hotels.
 
 ## Process
 ### (your step 1)
